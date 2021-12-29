@@ -1,6 +1,6 @@
-# my_app
+# meals app
 
-A new Flutter project.
+demo meal app
 
 ## Getting Started
 
